@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Brain Memory</string>
+    <string name="game_name_example_memory_game">Game Name (example: memory_game)</string>
+    <string name="save">save</string>
+    <string name="moves_0">Moves: 0</string>
+    <string name="pairs_0_4">Pairs: 0/4</string>
+    <string name="brain_memory">Brain Memory</string>
+    <string name="jards_designs_amp_development"><![CDATA[Jards Designs & Development]]></string>
+    <string name="images">Images</string>
+    <string name="easy_4_2">Easy (4*2)</string>
+    <string name="medium_6_3">Medium (6*3)</string>
+    <string name="hard_6_4">Hard (6*4)</string>
+    <string name="enter_the_game_name">Enter the Game Name</string>
+    <string name="main_easy">Easy= 4*2</string>
+    <string name="main_pairs_easy">Pairs: 0/4</string>
+    <string name="main_medium">Medium= 6*3</string>
+    <string name="main_medium_pairs">Pairs: 0/9</string>
+    <string name="main_hard">Hard= 6*4</string>
+    <string name="main_hard_pairs">Pairs: 0/12</string>
+    <string name="refresh">Refresh</string>
+    <string name="change_game_level">Change Game Level</string>
+    <string name="create_custom_game">Create Custom Game</string>
+    <string name="download_custom_game">Download Custom Game</string>
+    <string name="about_main">This app was developed exclusively by Jamiu Adewale Yusuf in Courtesy of Rahul Pandey </string>
+    <string name="gmail">jamiuadewaleyusuf@gmail.com </string>
+
+
+</resources>

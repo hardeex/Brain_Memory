@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "273312890877",
+    "project_id": "brain-memory-a3314",
+    "storage_bucket": "brain-memory-a3314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273312890877:android:c5400becac5f2ea1aea394",
+        "android_client_info": {
+          "package_name": "com.hardextech.brainmemory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273312890877-kj16sdp2atnj5qllrttgq3am5nqc2dao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2DPdKJAzqhDw0-NX5wlAmNDl4QlbdDb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273312890877-kj16sdp2atnj5qllrttgq3am5nqc2dao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

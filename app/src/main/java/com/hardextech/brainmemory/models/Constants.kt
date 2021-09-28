@@ -1,0 +1,55 @@
+package com.hardextech.brainmemory.models
+
+import com.hardextech.brainmemory.R
+
+const val EXTRA_GAME_NAME ="EXTRA_GAME_NAME"
+
+val DEFAULT_ICONS = listOf(
+    R.drawable.ic_airplane,
+    R.mipmap.brain_memory_launcher_icon,
+    R.drawable.ic_launcher_foreground,
+    R.drawable.ic_baseline_add_24,
+    R.drawable.ic_baseline_5g_24,
+    R.drawable.ic_baseline_access_alarm_24,
+    R.drawable.ic_baseline_account_balance_24,
+    R.drawable.ic_baseline_add_shopping_cart_24,
+    R.drawable.ic_baseline_airport_shuttle_24,
+    R.drawable.ic_baseline_all_inclusive_24,
+    R.drawable.ic_baseline_face_24,
+    R.drawable.ic_baseline_family_restroom_24,
+    R.drawable.ic_baseline_follow_the_signs_24,
+    R.drawable.ic_baseline_hearing_24,
+    R.drawable.ic_baseline_pedal_bike_24,
+    R.drawable.ic_baseline_supervised_user_circle_24,
+    R.drawable.ic_baseline_laptop_24,
+    R.drawable.ic_baseline_language_24,
+    R.drawable.ic_baseline_library_music_24,
+    R.drawable.ic_baseline_local_cafe_24,
+    R.drawable.ic_baseline_location_on_24,
+    R.drawable.ic_baseline_local_post_office_24,
+    R.drawable.ic_baseline_movie_creation_24,
+    R.drawable.ic_baseline_security_24,
+    R.drawable.ic_baseline_school_24,
+    R.drawable.ic_baseline_photo_album_24,
+    R.drawable.ic_baseline_personal_video_24,
+    R.drawable.ic_baseline_perm_phone_msg_24,
+    R.drawable.ic_baseline_videogame_asset_24,
+    R.drawable.ic_baseline_wb_incandescent_24,
+    R.drawable.ic_baseline_sort_by_alpha_24,
+    R.drawable.ic_baseline_sports_soccer_24,
+    R.drawable.ic_baseline_sports_bar_24,
+    R.drawable.ic_baseline_wheelchair_pickup_24,
+    R.drawable.ic_baseline_offline_pin_24,
+    R.drawable.ic_baseline_search_24,
+    R.drawable.ic_baseline_screen_lock_portrait_24,
+    R.drawable.ic_baseline_scanner_24,
+    R.drawable.ic_baseline_sanitizer_24,
+    R.drawable.ic_baseline_share_24,
+    R.drawable.ic_baseline_timer_3_24,
+    R.drawable.ic_baseline_thumb_up_24,
+    R.drawable.ic_baseline_wine_bar_24,
+    R.drawable.ic_baseline_weekend_24,
+    R.drawable.ic_baseline_warning_24,
+    R.drawable.ic_baseline_volume_mute_24
+
+)

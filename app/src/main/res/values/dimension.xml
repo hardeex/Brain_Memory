@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<dimen name="marginStart">22dp</dimen>
+<dimen name="marginEnd">22dp</dimen>
+<dimen name="marginTop">10dp</dimen>
+<dimen name="marginBottom">10dp</dimen>
+<dimen name="margin">10dp</dimen>
+<dimen name="button_corner_radius">6dp</dimen>
+<dimen name="imageViewHeight">120dp</dimen>
+<dimen name="imageViewWidth">120dp</dimen>
+</resources>
